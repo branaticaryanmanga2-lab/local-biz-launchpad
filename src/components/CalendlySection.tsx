@@ -64,7 +64,7 @@ export const CalendlySection = () => {
 
               <Button
                 size="lg"
-                variant="hero"
+                variant="cta"
                 className="w-full text-lg py-6"
                 onClick={openCalendly}
               >
